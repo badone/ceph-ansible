@@ -75,6 +75,7 @@
   roles:
     - ceph-defaults
     - ceph-validate
+    - ceph-facts
     - ceph-infra
 
 
